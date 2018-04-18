@@ -2765,9 +2765,9 @@ registry-auth-token@^3.3.1:
     rc "^1.1.6"
     safe-buffer "^5.0.1"
 
-remark-github-plugin@1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/remark-github-plugin/-/remark-github-plugin-1.1.0.tgz#6a5deaa4ceabba4ebec1b4182ac251ae751815d3"
+remark-github-plugin@^1.1.0:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/remark-github-plugin/-/remark-github-plugin-1.1.1.tgz#e103830273c06d85f457df3f725ee66501862a73"
   dependencies:
     async-disk-cache "1.3.3"
     github-url-parse "0.1.0"

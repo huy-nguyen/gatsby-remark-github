@@ -1,6 +1,6 @@
 # gatsby-remark-github
 
-[![npm](https://img.shields.io/npm/v/gatsby-remark-github.svg?style=flat-square)](https://www.npmjs.com/package/remark-github-plugin)
+[![npm](https://img.shields.io/npm/v/gatsby-remark-github.svg?style=flat-square)](https://www.npmjs.com/package/gatsby-remark-github)
 [![CircleCI](https://circleci.com/gh/huy-nguyen/gatsby-remark-github/tree/master.svg?style=shield)](https://circleci.com/gh/huy-nguyen/gatsby-remark-github/tree/master)
 
 This is a plugin for [`gatsby-transformer-remark`](https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-transformer-remark), which is in turn a plugin for [GatsbyJS](https://www.gatsbyjs.org/).

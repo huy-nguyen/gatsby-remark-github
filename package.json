@@ -1,4 +1,22 @@
 {
+  "name": "gatsby-remark-github",
+  "version": "0.0.0-semantic-release",
+  "description": "GatsbyJS plugin to inline GitHub source code into markdown using remark-github-plugin",
+  "keywords": [
+    "gatsby",
+    "gatsbyjs",
+    "remark",
+    "github",
+    "markdown",
+    "unified"
+  ],
+  "author": "Huy Nguyen <me@huynguyen.io> (https://www.huynguyen.io/)",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huy-nguyen/gatsby-remark-github.git"
+  },
   "dependencies": {
     "remark-github-plugin": "1.1.0"
   }

@@ -53,7 +53,7 @@ module.exports = {
 ```
 
 For sample input and output, please refer to the usage section of [`remark-github-plugin`](https://github.com/huy-nguyen/remark-github-plugin#usage).
-You can also find a full real-world setup in [this repo](https://github.com/huy-nguyen/demo-remark-github-plugin).
+You can also find a full real-world setup in [this repo](https://github.com/huy-nguyen/demo-gatsby-remark-github).
 
 ## Configuration
 This plugin takes the exact same configuration as that of [`remark-github-plugin`](https://github.com/huy-nguyen/remark-github-plugin).

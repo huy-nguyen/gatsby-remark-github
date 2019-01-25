@@ -10,10 +10,11 @@ This plugin is a simple wrapper around the [`remark-github-plugin`](https://gith
 
 ```bash
 # npm:
-npm install gatsby-remark-plugin
+npm install remark-github-plugin gatsby-remark-plugin
 # or yarn:
-yarn add gatsby-remark-plugin
+yarn add remark-github-plugin gatsby-remark-plugin
 ```
+Note: You need to install `remark-github-plugin` along with this package because it is a peer dependency.
 
 ## Usage:
 

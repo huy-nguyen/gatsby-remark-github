@@ -24,7 +24,7 @@
     "eslint": "eslint .",
     "eslint:fix": "eslint . --fix"
   },
-  "dependencies": {
+  "peerDependencies": {
     "remark-github-plugin": "^1.1.0"
   },
   "devDependencies": {

@@ -8,7 +8,8 @@
     "remark",
     "github",
     "markdown",
-    "unified"
+    "unified",
+    "gatsby-plugin"
   ],
   "author": "Huy Nguyen <me@huynguyen.io> (https://www.huynguyen.io/)",
   "main": "index.js",

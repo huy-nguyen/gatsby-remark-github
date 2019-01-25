@@ -5,15 +5,17 @@
 
 This is a plugin for [`gatsby-transformer-remark`](https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-transformer-remark), which is in turn a plugin for [GatsbyJS](https://www.gatsbyjs.org/).
 This plugin is a simple wrapper around the [`remark-github-plugin`](https://github.com/huy-nguyen/remark-github-plugin), which  replace links to GitHub files in Markdown files with the actual content of those files, wrapped in Markdown code blocks that can optionally be further processed by a syntax highlighter (e.g. [`gatsby-remark-prismjs`](https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-remark-prismjs)).
+For more details on how this package came about, you can read about its development process in my [series of blog posts](https://www.huynguyen.io/2018-05-remark-gatsby-plugin-part-1/).
 
 ## Installation
 
 ```bash
 # npm:
-npm install gatsby-remark-plugin
+npm install remark-github-plugin gatsby-remark-plugin
 # or yarn:
-yarn add gatsby-remark-plugin
+yarn add remark-github-plugin gatsby-remark-plugin
 ```
+Note: You need to install `remark-github-plugin` along with this package because it is a peer dependency.
 
 ## Usage:
 

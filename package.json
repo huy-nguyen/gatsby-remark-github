@@ -11,7 +11,7 @@
     "unified",
     "gatsby-plugin"
   ],
-  "author": "Huy Nguyen <me@huynguyen.io> (https://www.huynguyen.io/)",
+  "author": "Huy Nguyen <me@huy.dev> (https://www.huy.dev/)",
   "main": "index.js",
   "license": "MIT",
   "repository": {

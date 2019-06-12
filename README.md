@@ -11,9 +11,9 @@ For more details on how this package came about, you can read about its developm
 
 ```bash
 # npm:
-npm install remark-github-plugin gatsby-remark-plugin
+npm install remark-github-plugin gatsby-remark-github
 # or yarn:
-yarn add remark-github-plugin gatsby-remark-plugin
+yarn add remark-github-plugin gatsby-remark-github
 ```
 Note: You need to install `remark-github-plugin` along with this package because it is a peer dependency.
 
